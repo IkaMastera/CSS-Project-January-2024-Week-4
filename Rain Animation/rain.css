@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background: url(background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.rain{
+    height: 100vh;
+    background: url(rain.png);
+}
